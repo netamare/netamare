@@ -1,50 +1,25 @@
 👋 Hi, I'm Netsanet Amare
 
-I'm a Computer Science student and developer who enjoys building mobile applications, web applications, and interactive games. I'm passionate about learning new technologies and turning ideas into real-world projects.
+I'm a Computer Science student passionate about building mobile apps, web applications, and interactive games.
 
-🔭 **What I'm Currently Working On:**
+🔭 **Currently Working On:**
 
-✨ Developing mobile applications using Flutter and Kotlin
-✨ Building web applications using React, Next.js, and Laravel
-✨ Creating interactive games using React and TypeScript
-✨ Improving my programming skills and exploring new technologies
+* 📱 Mobile apps with Flutter & Kotlin
+* 🌐 Web apps with React, Next.js & Laravel
+* 🎮 Games with React & TypeScript
 
-## 🛠️ Tech Stack & Tools
-🛠️ **Languages:**
+## 🛠️ Tech Stack
 
-* Python
-* JavaScript / TypeScript
-* Kotlin
-* C++
-* PHP
+* **Languages:** Python, JavaScript, TypeScript, Kotlin, C++, PHP
+* **Frontend:** React, Next.js, HTML, CSS
+* **Mobile:** Flutter, Android
+* **Backend & Database:** Node.js, Laravel, MongoDB
+* **Tools:** Git & GitHub
 
-📱 **Mobile Development:**
-
-* Flutter
-* Android
-* kotlin
-🌐 **Frontend:**
-
-* React
-* Next.js
-* HTML
-* CSS
-
-⚙️ **Backend & Database:**
-
-* Node.js
-* Laravel
-* MongoDB
-* Python
-* PHP
-
-🛠️ **Tools:**
-
-* Git & GitHub
-
-## 📫 How to Reach Me
+## 📫 Contact
 
 * Email: [nestiamare64@gmail.com](mailto:nestiamare64@gmail.com)
 * LinkedIn: [Netsanet Amare](https://www.linkedin.com/in/netsanet-amare/)
 
 ⭐️ Learn. Build. Create.
+
