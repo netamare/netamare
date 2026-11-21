@@ -126,14 +126,6 @@ A collection of interactive games built with modern web technologies.
 
 ---
 
-## 🐍 Contribution Journey
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/netamare/netamare/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
